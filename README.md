@@ -15,7 +15,7 @@
  /\/\/\/\/\/\/               .
 ```
 
-![IllPigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllPigeon&show_icons=true&theme=tokyonight)
+![IllPigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllPigeon&show_icons=true&theme=synthwave)
 <!--
 **IllPigeon/IllPigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
