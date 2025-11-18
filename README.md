@@ -2,22 +2,22 @@
 > neofetch
 ```
 ```bash
-    _____                                                       . illpigeon@github
-  _________                                                     . ---------------------
- ____  _____                                                    . OS: Windows 10
- ___ \/ _____                                                   . Uptime: 23 Years
- ___ /\ ___/--_                                                 . Pronouns: He/Him
- ____  ____|__==\                                               . Location: Birmingham, AL
- ____________                                                   .  
- ____________                                                   . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
- ____________                                                   .            TypeScript, php, Go, HTML, CSS
-///\\//\\//\\\                                                  . Hobbies: Gaming, Reading, Art, Olympic Fencing
-\/\/\/\/\/\/\/                                                  . Favorite Game: Fallout: New Vegas
-                                                                .
-                                                                . Contact
-                                                                ----------------------
-                                                                . Email: baileylentini@gmail.com
-                                                                . LinkedIn: https://www.linkedin.com/in/chris-lentini-6ab34a246/
+    _____                                                 . illpigeon@github
+  _________                                               . ---------------------
+ ____  _____                                              . OS: Windows 10
+ ___ \/ _____                                             . Uptime: 23 Years
+ ___ /\ ___/--_                                           . Pronouns: He/Him
+ ____  ____|__==\                                         . Location: Birmingham, AL
+ ____________                                             .  
+ ____________                                             . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
+ ____________                                             .            TypeScript, php, Go, HTML, CSS
+///\\//\\//\\\                                            . Hobbies: Gaming, Reading, Art, Olympic Fencing
+\/\/\/\/\/\/\/                                            . Favorite Game: Fallout: New Vegas
+                                                          .
+                                                          . Contact
+                                                          . ----------------------
+                                                          . Email: baileylentini@gmail.com
+                                                          . LinkedIn: linkedin.com/in/chris-lentini-6ab34a246/
 ```
 
 ![IllPigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllPigeon&show_icons=true&theme=synthwave)
