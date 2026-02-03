@@ -11,7 +11,7 @@
  ____________                                          .  
  ____________                                          . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
  ____________                                          .            TypeScript, php, Go, HTML, CSS
-///\\//\\//\\\                                         . Hobbies: Gaming, Reading, Art, Olympic Fencing
+///\\//\\//\\\                                         . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing
 \/\/\/\/\/\/\/                                         . Favorite Game: Fallout: New Vegas
                                                        .
                                                        . Contact
