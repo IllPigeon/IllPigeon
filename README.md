@@ -18,6 +18,7 @@
 ```
 
 ![IllPigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllPigeon&show_icons=true&theme=synthwave)
+[![IllPigeon's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=IllPigeon&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=radical)
 <!--
 **IllPigeon/IllPigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
