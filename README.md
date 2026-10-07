@@ -5,13 +5,11 @@
      ____  _____                                      . OS: Windows 10/Windows 11
      ___ \/ _____                                     . Uptime: 24 Years
      ___ /\ ___/--_                                   . Pronouns: He/Him
-     ____  ____|__==\                          
-     ____________                                     .  
-     ____________                                     . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
-     ____________                                     .            TypeScript/JavaScript, php, Go, HTML, CSS
-    ///\\//\\//\\\                                    . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing
-    \/\/\/\/\/\/\/                                    . Favorite Game: Fallout: New Vegas
-                                                      .
+     ____  ____|__==\                                 . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
+     ____________                                     . TypeScript/JavaScript, php, Go, HTML, CSS
+     ____________                                     . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing 
+    ///\\//\\//\\\                                    . Favorite Games: Fallout: New Vegas, Baldur's Gate 3, Dawn of War: Dark Crusade 
+    \/\/\/\/\/\/\/                                    . 
                                                       . Contact
                                                       . ----------------------
                                                       . Email: baileylentini@gmail.com
