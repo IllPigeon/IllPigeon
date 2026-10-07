@@ -1,15 +1,15 @@
 
 ```bash
-        _____                                         . illpigeon@github
-      _________                                       . ---------------------
-     ____  _____                                      . OS: Windows 10/Windows 11
-     ___ \/ _____                                     . Uptime: 24 Years
-     ___ /\ ___/--_                                   . Pronouns: He/Him
-     ____  ____|__==\                                 . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
-     ____________                                     .            TypeScript/JavaScript, php, Go, HTML, CSS
-     ____________                                     . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing 
-    ///\\//\\//\\\                                    . Favorite Games: Fallout: New Vegas, Baldur's Gate 3, 
-    \/\/\/\/\/\/\/                                    . Dawn of War: Dark Crusade
+                        _____                         . illpigeon@github
+                      _________                       . ---------------------
+                     ____  _____                      . OS: Windows 10/Windows 11
+                     ___ \/ _____                     . Uptime: 24 Years
+                     ___ /\ ___/--_                   . Pronouns: He/Him
+                     ____  ____|__==\                 . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
+                     ____________                     .            TypeScript/JavaScript, php, Go, HTML, CSS
+                     ____________                     . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing 
+                    ///\\//\\//\\\                    . Favorite Games: Fallout: New Vegas, Baldur's Gate 3, 
+                    \/\/\/\/\/\/\/                    . Dawn of War: Dark Crusade
                                                       .
                                                       . Contact
                                                       . ----------------------
