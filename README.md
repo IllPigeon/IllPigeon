@@ -1,6 +1,4 @@
-```bash
-> neofetch
-```
+
 ```bash
         _____                                         . illpigeon@github
       _________                                       . ---------------------
