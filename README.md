@@ -2,13 +2,13 @@
 ```bash
         _____                                         . illpigeon@github
       _________                                       . ---------------------
-     ____  _____                                      . OS: Windows 10
-     ___ \/ _____                                     . Uptime: 23 Years
+     ____  _____                                      . OS: Windows 10/Windows 11
+     ___ \/ _____                                     . Uptime: 24 Years
      ___ /\ ___/--_                                   . Pronouns: He/Him
-     ____  ____|__==\                                 . Location: Birmingham, AL
+     ____  ____|__==\                          
      ____________                                     .  
      ____________                                     . Languages: Java, Python, Ruby, C, Rust, Kotlin, 
-     ____________                                     .            TypeScript, php, Go, HTML, CSS
+     ____________                                     .            TypeScript/JavaScript, php, Go, HTML, CSS
     ///\\//\\//\\\                                    . Hobbies: Gaming, Reading, Art, TTRPGs, Fencing
     \/\/\/\/\/\/\/                                    . Favorite Game: Fallout: New Vegas
                                                       .
